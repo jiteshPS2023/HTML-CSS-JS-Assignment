@@ -1,0 +1,34 @@
+[
+    {
+        "Name": "Jitesh",
+        "Class": 9,
+        "Section": "A",
+        "Sub1": 70,
+        "Sub2": 75,
+        "Sub3": 80
+    },
+    {
+        "Name": "Spadigha",
+        "Class": 10,
+        "Section": "B",
+        "Sub1": 75,
+        "Sub2": 80,
+        "Sub3": 85
+    },
+    {
+        "Name": "Shri",
+        "Class": 11,
+        "Section": "C",
+        "Sub1": 77,
+        "Sub2": 82,
+        "Sub3": 87
+    },
+    {
+        "Name": "Tanuja",
+        "Class": 12,
+        "Section": "D",
+        "Sub1": 80,
+        "Sub2": 85,
+        "Sub3": 95
+    }
+]

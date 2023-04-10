@@ -1,0 +1,24 @@
+#div-btn {
+    margin: 1.5rem 0 1.5rem 0;
+}
+#view-btn {
+    display: flex;
+    justify-content: flex-end;
+}
+#view-btn a {
+    background-color: #ffb800 !important;
+    padding: 2px 7px;
+    margin: 0px !important;
+    color: black;
+    font-size: 1.5rem;
+}
+#view-btn a.grid-btn {
+    border-radius: 10px 0 0 10px;
+}
+#view-btn a.lst-btn {
+    border-radius: 0 10px 10px 0;
+        border-left: 2px solid black;
+}
+.grid-view .card,  .list-view .card{
+    margin: 0.5rem;
+}
