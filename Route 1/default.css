@@ -2,18 +2,21 @@ body {
   overflow: hidden
 }
 .text-div {
-  animation: my-animation 15s linear infinite;
+    animation: my-animation 10s linear infinite;
+    text-align: center;
+    color: black;
+    letter-spacing: .5px;
+    font-size: 20px;
 }
 
 @keyframes my-animation {
-  0% {
-    -moz-transform: translateX(192%);
-    -webkit-transform: translateX(192%);
-    transform: translateX(192%);
-  }
-  100% {
-    -moz-transform: translateX(-157%);
-    -webkit-transform: translateX(-157%);
-    transform: translateX(-157%);
-  }
+  0%{
+    transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
 }
