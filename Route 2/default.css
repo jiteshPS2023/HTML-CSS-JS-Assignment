@@ -6,11 +6,14 @@
     justify-content: flex-end;
 }
 #view-btn a {
-    background-color: #ffb800 !important;
+    background-color: #ffb800;
     padding: 2px 7px;
-    margin: 0px !important;
+    margin: 0px;
     color: black;
-    font-size: 1.5rem;
+}
+#view-btn img {
+    font-size: 1px;
+    height: 35px;
 }
 #view-btn a.grid-btn {
     border-radius: 10px 0 0 10px;

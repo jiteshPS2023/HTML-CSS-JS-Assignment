@@ -5,23 +5,8 @@
         "Section": "A",
         "Sub1": 70,
         "Sub2": 75,
-        "Sub3": 80
-    },
-    {
-        "Name": "Spadigha",
-        "Class": 10,
-        "Section": "B",
-        "Sub1": 75,
-        "Sub2": 80,
-        "Sub3": 85
-    },
-    {
-        "Name": "Shri",
-        "Class": 11,
-        "Section": "C",
-        "Sub1": 77,
-        "Sub2": 82,
-        "Sub3": 87
+        "Sub3": 80,
+        "Sub4": 85
     },
     {
         "Name": "Tanuja",
@@ -29,6 +14,25 @@
         "Section": "D",
         "Sub1": 80,
         "Sub2": 85,
-        "Sub3": 95
+        "Sub3": 95,
+        "Sub4": 96
+    },
+    {
+        "Name": "Shri",
+        "Class": 11,
+        "Section": "C",
+        "Sub1": 77,
+        "Sub2": 82,
+        "Sub3": 87,
+        "Sub4": 90
+    },
+    {
+        "Name": "Spadigha",
+        "Class": 10,
+        "Section": "B",
+        "Sub1": 75,
+        "Sub2": 80,
+        "Sub3": 85,
+        "Sub4": 88
     }
 ]
